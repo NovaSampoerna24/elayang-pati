@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:gravity="top"
+    android:orientation="horizontal"
+    android:padding="16dp">
+
+    <LinearLayout
+        android:layout_width="118dp"
+        android:layout_height="wrap_content"
+        android:layout_marginRight="16dp"
+        android:gravity="center_horizontal"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/textViewStatus"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="8dp"
+            android:background="@drawable/shape_chip_green"
+            android:text="Sudah Dibaca"
+            android:textColor="@color/colorWhite"
+            android:textSize="11sp" />
+
+        <TextView
+            android:id="@+id/textViewTanggal"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="28 Agustus 2018" />
+
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Pengirim"
+            android:textColor="@color/colorAccent" />
+
+        <TextView
+            android:id="@+id/textViewPengirim"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="ANDREAS" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Penerima"
+            android:textColor="@color/colorAccent" />
+
+        <TextView
+            android:id="@+id/textViewPenerima"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="IRSYAD SYAFIQI" />
+
+
+    </LinearLayout>
+
+
+</LinearLayout>

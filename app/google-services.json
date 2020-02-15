@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "893851793194",
+    "firebase_url": "https://elayangpatikab.firebaseio.com",
+    "project_id": "elayangpatikab",
+    "storage_bucket": "elayangpatikab.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:893851793194:android:0290eb838b42538cded053",
+        "android_client_info": {
+          "package_name": "app.patikab.elayang"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "893851793194-bp1kds5p1rnpgcg0apgs18p5gjfpvh9a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB9wC_7fk0f3XPupHb7i8KWS9C8cJ34tKA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "893851793194-bp1kds5p1rnpgcg0apgs18p5gjfpvh9a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:893851793194:android:c8d804ad49efb4d4ded053",
+        "android_client_info": {
+          "package_name": "app.patikab.padangjingglang"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "893851793194-bp1kds5p1rnpgcg0apgs18p5gjfpvh9a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB9wC_7fk0f3XPupHb7i8KWS9C8cJ34tKA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "893851793194-bp1kds5p1rnpgcg0apgs18p5gjfpvh9a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:893851793194:android:b59deccebb66660d",
+        "android_client_info": {
+          "package_name": "patikab.eoffice.android"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "893851793194-bp1kds5p1rnpgcg0apgs18p5gjfpvh9a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB9wC_7fk0f3XPupHb7i8KWS9C8cJ34tKA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "893851793194-bp1kds5p1rnpgcg0apgs18p5gjfpvh9a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

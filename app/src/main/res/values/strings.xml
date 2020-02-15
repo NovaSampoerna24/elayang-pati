@@ -1,0 +1,30 @@
+<resources>
+    <!--<string name="app_name">E-Office Trial</string>-->
+    <string name="app_name">E-Layang</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_inbox">InboxActivity</string>
+    <string name="title_activity_setting">SettingActivity</string>
+    <string name="title_activity_notification">Notifikasi</string>
+    <string name="title_activity_list">ListActivity</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="default_notification_channel_id" translatable="false">fcm_default_channel</string>
+    <string name="title_activity_detail_mail">Detail Surat</string>
+    <string name="title_activity_disposition">Disposisi Surat</string>
+    <string name="title_activity_comment">Komentar</string>
+    <string name="title_activity_detail_disposition">Detail Disposisi Masuk</string>
+    <string name="title_activity_detail_konsep">Detail Konsep Surat</string>
+
+    <string name="remote_pdf_example">Remote PDF Example</string>
+    <string name="remote_pdf_url">Remote PDF URL</string>
+    <string name="sample_pdf_url">http://103.110.43.48:8080/generatepdf/tte/getprevpdf?id=142</string>
+    <string name="download">Tap to start download</string>
+
+    <string name="title_activity_detail_mail_out">Detail Surat Keluar</string>
+    <string name="title_activity_detail_mail_tte">Detail Surat</string>
+    <string-array name="status_konsep">
+        <item>Revisi</item>
+        <item>Disetujui</item>
+    </string-array>
+</resources>
